@@ -14,6 +14,4 @@ Unofficial Android 17 build for Redmi 12C / POCO C55.
 - Vanilla: Coming Soon
 
 ### Credits
-- NAm(@xspes) — Building
-- Jazz — Testing
 - surblazer — Device trees
