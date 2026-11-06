@@ -2,8 +2,6 @@
 
 Unofficial Android 17 build for Redmi 12C / POCO C55.
 
-**Maintainer:** NAm(@xspes)
-
 ### Device
 - Codename: earth
 - Android: 17
